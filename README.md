@@ -15,7 +15,7 @@
 
 Решение 2
 
-![alt text](https://github.com/mezhibo/SQL1/blob/d97be2e61b3f7745f2317ee0a63e94340677bd59/IMG/2-1.jpg)
+![alt text](https://github.com/mezhibo/SQL1/blob/d3d7463d15f43cb1aaa84e02184596e98fe6f9fc/IMG/2-2.jpg)
 
 Задание 3
 
